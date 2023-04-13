@@ -1,3 +1,1 @@
-"#!/bin/bash"
-  
-"so readme is not empty"
+task 0 where am i
